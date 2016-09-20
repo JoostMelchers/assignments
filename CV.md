@@ -1,5 +1,4 @@
-Curriculum Vitae Joost Melchers
-===============================
+#Curriculum Vitae Joost Melchers
 
 Economics and Business Economics (E.B.E.) Student
 
@@ -9,12 +8,9 @@ Economics and Business Economics (E.B.E.) Student
 * Email 		joost.w.m@live.nl 
 * Nationality	Dutch
 
-Education
-----------
-  Tilburg University
-  --------------------
-   * Outreaching Honours Programme
-   --------------------------------
+##Education
+  ###Tilburg University
+   ####Outreaching Honours Programme
     Stimulating personal growth and society orientated projects with practical experience from numerous initiatives: 
       * Outreaching Labs: (1) Elderly Care: Role of Innovation, and (2) SMART*LIGHT; 
       * Community Project: Sharing Economy (Get it Together); 
@@ -23,4 +19,8 @@ Education
       * diverse Masterclasses, 
       * Individual- and Group Coaching, 
       * and Entrepreneurial and Responsible Leadership Course. 
+   ####Economics and Business Economics, BCs
+      Relevant courses: Macroeconomics, Microeconomics, Environmental Economics,
+      Growth Theory, Finance, Accounting, Strategy, International Trade, Financial 				
+      Economics and Philosophy. (GPA 7.0)
     
