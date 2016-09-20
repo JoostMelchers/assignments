@@ -1,12 +1,9 @@
 #Curriculum Vitae Joost Melchers
 
 Economics and Business Economics (E.B.E.) Student
-
-* Address		      Jacobushoek 18, 5672HZ Nuenen
-* Date of Birth 	December 8, 1993, Eindhoven
-* Cell 		        316 39639662
+* Cell 		      316 39639662
 * Email 		      joost.w.m@live.nl 
-* Nationality   	Dutch
+* Nationality   	      Dutch
 
 ## Education
 ### Tilburg University
@@ -24,4 +21,13 @@ Economics and Business Economics (E.B.E.) Student
       Relevant courses: Macroeconomics, Microeconomics, Environmental Economics,
       Growth Theory, Finance, Accounting, Strategy, International Trade, Financial 				
       Economics and Philosophy. (GPA 7.0)
+
+3. Exchange Programme at Università Commerciale ‘Luigi Bocconi’, Milan
+      5 Months Erasmus exchange. Courses: Technology and Innovation Management,
+      Management of International and Supranational Organizations, New Product
+      Development and Open Innovation, Evolution of Economic Ideas, and Experimental
+      Economics and Psychology.
+
+4. Econometrics and Operational Research, BCs
+      Relevant courses: Linear Algebra, Linear Optimization and Mathematical Analysis. 
     
