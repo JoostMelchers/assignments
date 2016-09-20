@@ -8,17 +8,18 @@ Economics and Business Economics (E.B.E.) Student
 * Email 		joost.w.m@live.nl 
 * Nationality	Dutch
 
-##Education
-  ###Tilburg University
-   ####Outreaching Honours Programme
-    Stimulating personal growth and society orientated projects with practical experience from numerous initiatives: 
+## Education
+  ### Tilburg University
+     #### Outreaching Honours Programme
+       Stimulating personal growth and society orientated projects with practical experience from numerous initiatives: 
       * Outreaching Labs: (1) Elderly Care: Role of Innovation, and (2) SMART*LIGHT; 
       * Community Project: Sharing Economy (Get it Together); 
       * But also Krauthammer’s Competence Trainings, 
       * Talent Management Training, 
       * diverse Masterclasses, 
       * Individual- and Group Coaching, 
-      * and Entrepreneurial and Responsible Leadership Course. 
+      * and Entrepreneurial and Responsible Leadership Course.
+      
    ####Economics and Business Economics, BCs
       Relevant courses: Macroeconomics, Microeconomics, Environmental Economics,
       Growth Theory, Finance, Accounting, Strategy, International Trade, Financial 				
