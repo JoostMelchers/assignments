@@ -11,7 +11,7 @@ Economics and Business Economics (E.B.E.) Student
 ## Education
     **Tilburg University**
     1. Outreaching Honours Programme
-       Stimulating personal growth and society orientated projects with practical experience from numerous initiatives: 
+      Personal growth and society orientated projects with practical experience from numerous initiatives: 
       * Outreaching Labs: (1) Elderly Care: Role of Innovation, and (2) SMART*LIGHT; 
       * Community Project: Sharing Economy (Get it Together); 
       * But also Krauthammer’s Competence Trainings, 
