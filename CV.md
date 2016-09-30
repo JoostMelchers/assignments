@@ -86,7 +86,7 @@ International Baccalaureate | higher level, certificate score 5/7
 English | Orally and written excellent/professional: CEFR level C2
 Italian | Orally and written elementary: CEFR level B1
 
-3. Interests
+3. **Interests**
 
    Scientific discoveries, technological innovations, that change (our view of) the world or discoveries which improve the standard of      living for many. Furthermore I am interested in social macroeconomic developments, e.g. growth theory, technological progress, and      environmental economics.
    
