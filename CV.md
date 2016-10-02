@@ -88,6 +88,6 @@ Italian | Orally and written elementary: CEFR level B1
 
 3. **Interests**
 
-   Scientific discoveries, technological innovations, that change (our view of) the world or discoveries which improve the standard of      living for many. Furthermore I am interested in social macroeconomic developments, e.g. growth theory, technological progress, and      environmental economics.
+>   Scientific discoveries, technological innovations, that change (our view of) the world or discoveries which improve the standard of  living for many. Furthermore I am interested in social macroeconomic developments, e.g. growth theory, technological progress, and   environmental economics.
    
    
