@@ -2,4 +2,5 @@
 
 A collection of my assignments for Applied Economic Analysis 1:
 
-First of all [my CV](https://github.com/JoostMelchers/assignments/blob/master/CV.md)
+- [x] First of all [my CV](https://github.com/JoostMelchers/assignments/blob/master/CV.md)
+- [ ] The second assignment will follow (i.e. the Canon)
