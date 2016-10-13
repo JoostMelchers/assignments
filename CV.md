@@ -7,7 +7,7 @@ Economics and Business Economics (E.B.E.) Student
 
 ## Education
 ### Tilburg University
-1. **Outreaching Honours Programme, Diploma**
+1. **Outreaching Honours Programme, Certificate**
 
    Stimulating personal growth and society orientated projects with practical experience from numerous initiatives:
       * Outreaching Labs: (1) Elderly Care: Role of Innovation, and (2) SMART*LIGHT; 
@@ -18,7 +18,7 @@ Economics and Business Economics (E.B.E.) Student
       * Individual- and Group Coaching, 
       * and Entrepreneurial and Responsible Leadership Course.
       
-2. **Economics and Business Economics, BCs Diploma**
+2. **Economics and Business Economics, BsC Diploma**
 
    Relevant courses: Macroeconomics, Microeconomics, Environmental Economics,
    Growth Theory, Finance, Accounting, Strategy, International Trade, Financial 				
